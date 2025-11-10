@@ -36,5 +36,19 @@ We focus on accepting complexity where there is a strong impact on moving our bu
 ---
 
 ### We keep systems loosely coupled and independently deployable
+Dependencies add complexity. We rely heavily on the inversion of control principle and reduce dependencies wherever possible. 
 
-Dependencies add complexity. We rely heavily on the **inversion of
+---
+
+### Engineers own business outcomes, not technologies
+Engineers always look at the shortest, most maintainable, path to business value and work backwards towards technology. 
+
+---
+
+### Shrink the use case, don’t expand the technology
+If an existing technology covers 90% of the use case, we shrink the scope, rather than add technology. 
+
+---
+
+### Adopt new tools with an old mind
+The development and AI ecosystems continue to change and evolve quickly. However, with change comes risk. We balance adopting new tools by evaluating them with a strong level of skepticism. Tools need to deliver 2-3x improvement to the as-is situation at least. 50% extra is not enough.
