@@ -24,17 +24,14 @@ Laine is a remote-first company. With engineers living largely distributed, we v
 
 * With complex tasks, two engineers will work closely to build it together.
 * With shorter tasks (<1 day), we either deliver before the end of the day or add an engineer.
-* **We ask for help early and prioritize helping others over delivering ourselves.**
+* **We ask for help early and prioritize helping others over our own work.**
 
 ---
 
 ### Match complexity with business value
 
-We have a strong reluctance to accept complexity. At all times, we ask:
-
-> **“Can we simplify?”**
-
-We want to spend our time delivering value, not maintaining systems or struggling through tech debt.
+We have a strong reluctance to accept complexity. 
+We focus on accepting complexity where there is a strong impact on moving our business forward. 
 
 ---
 
