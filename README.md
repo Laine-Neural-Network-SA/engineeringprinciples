@@ -52,3 +52,8 @@ If an existing technology covers 90% of the use case, we shrink the scope, rathe
 
 ### Adopt new tools with an old mind
 The development and AI ecosystems continue to change and evolve quickly. However, with change comes risk. We balance adopting new tools by evaluating them with a strong level of skepticism. Tools need to deliver 2-3x improvement to the as-is situation at least. 50% extra is not enough.
+
+---
+
+### Leaders lead with context, developer operate with ownership
+Leaders focus on communicating a clear vision and strategic context, defining the boundaries of the problem. Within those boundaries, engineers have full ownership and autonomy to find the best technical solution and are encouraged to give further product feedback.
