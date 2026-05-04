@@ -53,6 +53,11 @@ If an existing technology covers 90% of the use case, we shrink the scope, rathe
 ### Adopt new tools with an old mind
 The development and AI ecosystems continue to change and evolve quickly. However, with change comes risk. We balance adopting new tools by evaluating them with a strong level of skepticism. Tools need to deliver 2-3x improvement to the as-is situation at least. 50% extra is not enough.
 
+--- 
+
+### We deliver incrementally and validate our assumptions after delivery
+We find the smallest unit of work that delivers business value and build that first. Over time, we iterate based on feedbackk both quantative and qualitative. 
+
 ---
 
 ### Leaders lead with context, developer operate with ownership
