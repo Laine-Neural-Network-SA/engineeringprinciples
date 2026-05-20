@@ -56,9 +56,9 @@ The development and AI ecosystems continue to change and evolve quickly. However
 --- 
 
 ### We deliver incrementally and validate our assumptions after delivery
-We find the smallest unit of work that delivers business value and build that first. Over time, we iterate based on feedbackk both quantative and qualitative. 
+We find the smallest unit of work that delivers business value and build that first. Over time, we iterate based on feedback both quantative and qualitative. 
 
 ---
 
-### Leaders lead with context, developer operate with ownership
+### Leaders lead with context, developers operate with ownership
 Leaders focus on communicating a clear vision and strategic context, defining the boundaries of the problem. Within those boundaries, engineers have full ownership and autonomy to find the best technical solution and are encouraged to give further product feedback.
