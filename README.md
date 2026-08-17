@@ -21,7 +21,7 @@ Sustainability is not a straight line, however. Our development intensity mirror
 ### Collaboration in a remote-friendly environment
 
 Laine is a remote-first company. With engineers living largely distributed, we value collaboration very highly.
-* **We ask for help early and prioritize helping others over our own work.**
+**We ask for help early and prioritize helping others over our own work.**
 
 ---
 
