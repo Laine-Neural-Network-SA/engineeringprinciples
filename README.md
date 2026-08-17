@@ -21,9 +21,6 @@ Sustainability is not a straight line, however. Our development intensity mirror
 ### Collaboration in a remote-friendly environment
 
 Laine is a remote-first company. With engineers living largely distributed, we value collaboration very highly.
-
-* With complex tasks, two engineers will work closely to build it together.
-* With shorter tasks (<1 day), we either deliver before the end of the day or add an engineer.
 * **We ask for help early and prioritize helping others over our own work.**
 
 ---
@@ -51,14 +48,15 @@ If an existing technology covers 90% of the use case, we shrink the scope, rathe
 ---
 
 ### Adopt new tools with an old mind
-The development and AI ecosystems continue to change and evolve quickly. However, with change comes risk. We balance adopting new tools by evaluating them with a strong level of skepticism. Tools need to deliver 2-3x improvement to the as-is situation at least. 50% extra is not enough.
+The development and AI ecosystems continue to change and evolve quickly. However, with change comes risk. We balance adopting new tools by evaluating them with a strong level of skepticism. Tools need to deliver 2-3x improvement to the as-is situation. 50% extra is not enough.
 
 --- 
 
-### We deliver incrementally and validate our assumptions after delivery
-We find the smallest unit of work that delivers business value and build that first. Over time, we iterate based on feedback both quantative and qualitative. 
+### We deliver incrementally and validate our assumptions early
+We find the smallest unit of work that delivers business value and build that first. Over time, we iterate based on feedback both quantitative and qualitative. 
 
 ---
 
 ### Leaders lead with context, developers operate with ownership
 Leaders focus on communicating a clear vision and strategic context, defining the boundaries of the problem. Within those boundaries, engineers have full ownership and autonomy to find the best technical solution and are encouraged to give further product feedback.
+We operate in a leader-leader model. 
